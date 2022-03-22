@@ -6,3 +6,5 @@ We are still learning git
 I think I am doing good
 
 Java was fun so far
+
+page 2 is edited right now
