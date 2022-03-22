@@ -4,6 +4,8 @@ Test
 
 Practice committing
 
-I love git
+I love git.
 
-Git is cool
+Git is cool.
+
+Fixed page 4
